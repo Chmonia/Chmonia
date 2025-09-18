@@ -13,7 +13,6 @@
 <p class="aligncenter">
   <img src="https://komarev.com/ghpvc/?username=Chmonia&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="";/>
 </p>
-
 <style>
 .aligncenter {
     text-align: center;
