@@ -1,7 +1,7 @@
 <div id="header" style="text-align: center;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc2cHFqbzB6d2Z6dTFqcnc5Y29kaGJodHVsaHNyeWFjNHJjZzVxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="150" />
 </div>
-<div id="badges" style="display: flex; justify-content: center; margin-top: 10px;">
+<div id="badges" style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" style="height: 30px;"/>
   </a>
