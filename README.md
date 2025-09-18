@@ -10,6 +10,12 @@
     <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logoColor=white" style="height: 30px;"/>
   </a>
 </div>
-<center>
+<p class="aligncenter">
   <img src="https://komarev.com/ghpvc/?username=Chmonia&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="";/>
-</center>
+</p>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
