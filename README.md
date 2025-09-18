@@ -10,4 +10,4 @@
     <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logoColor=white" style="height: 30px;"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Chmonia&style=flat-square&color=blueviolet" alt="" align="center/>
+<img src="https://komarev.com/ghpvc/?username=Chmonia&style=flat-square&color=blueviolet" align="center/>
