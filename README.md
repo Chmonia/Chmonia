@@ -10,8 +10,12 @@
     <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logoColor=white" style="height: 30px;"/>
   </a>
 </div>
-<div align="center" style="margin-top:15px;">
+
+<br><br>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chmonia&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt=""/>
 </div>
+
 
 
